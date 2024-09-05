@@ -21,7 +21,7 @@ function calcStudentAverage(
   classNum,
   mathScore,
   englishScore,
-  PhysicsScore
+  physicsScore
 ) {
   const average = (mathScore + englishScore + PhysicsScore) / 3;
   // round the number
